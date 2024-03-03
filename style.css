@@ -1,0 +1,59 @@
+html {
+    padding: 1%;
+    margin: 0;
+    background-color: #3498DB;
+}
+
+body {
+	text-align: center;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    color: white;
+    position: relative;
+	width: 800px;
+	margin: 0 auto;
+	padding: 1%;
+
+}
+
+table {
+	text-align: right;
+}
+
+.erreur {
+	font-size: 1.2em;
+	color: #f00;
+}
+
+a:hover {
+	color: white;
+    text-decoration: underline; 
+}
+
+a {
+	background-color: #2980B9;
+	padding: 0.3%;
+	padding-right: 1%;
+	padding-left: 1%;
+	font-size: 1.2em;
+	color: white;
+	text-decoration: none;
+}
+
+form {
+	padding-left: 162.5px;
+	width: 475px;
+}
+
+.statistiques {
+	text-align: left;
+	width: 620px;
+	margin: 0 auto;
+}
+
+legend {
+	text-align: center;
+}
+
+img {
+	margin: 1%;
+}
